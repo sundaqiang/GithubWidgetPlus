@@ -28,4 +28,4 @@ $('.some_class').github-widget-plus('github用户名  或  github用户名/githu
 
   [1]: http://bh-lay.com/labs/github-widget-user
   [2]: https://github.com/typecho-fans/plugins/tree/master/GithubWidgetUser
-  [3]: https://raw.githubusercontent.com/sundaqiang/GithubWidgetPlus/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211028235916.jpg
+  [3]: https://raw.githubusercontent.com/sundaqiang/GithubWidgetPlus/main/demo.jpg
